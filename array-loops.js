@@ -9,6 +9,15 @@ const names = ["Henk", "Piet", "Fred", "Joop"];
 // console.log(names) geeft: ["Henkje", "Pietje", "Fredje", "Joopje"]
 
 
+for (let i = 0; i < names.length; i++) {
+    console.log(names[i] + "je")
+}
+
+
+// names[0] = "henkje"
+// console.log(names[0])
+
+
 
 // --------------------------
 // Opdracht 2
@@ -31,4 +40,4 @@ const figures = [4, 6, 12, 34, 1];
 // Verander de waardes van de array dusdanig dat er 3 bij iedere waarde wordt opgetelt
 // Wanneer je de volledige array logt zie je alle nieuwe waardes
 // console.log(figures) geeft: [ 7, 9, 15, 37, 4 ]
-console.log("hi")
+// console.log("hi")
