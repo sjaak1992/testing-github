@@ -31,5 +31,4 @@ const figures = [4, 6, 12, 34, 1];
 // Verander de waardes van de array dusdanig dat er 3 bij iedere waarde wordt opgetelt
 // Wanneer je de volledige array logt zie je alle nieuwe waardes
 // console.log(figures) geeft: [ 7, 9, 15, 37, 4 ]
-
-
+console.log("hi")
